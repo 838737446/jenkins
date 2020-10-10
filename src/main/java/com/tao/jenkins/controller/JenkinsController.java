@@ -10,6 +10,6 @@ public class JenkinsController {
 
     @GetMapping("test")
     public String test(){
-        return "今天你真好看";
+        return "今天你真好看,真的好看";
     }
 }
